@@ -1,0 +1,6 @@
+# Always-ignore extensions
+**/*.log
+
+# Other specific files and directories
+**/__pycache__
+**/*.csv
