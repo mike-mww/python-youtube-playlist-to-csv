@@ -71,7 +71,7 @@ class YouTubeApi():
             })
             
         return videosData
-    # /getVideos
+    # /getPlaylistVideos
         
         
     # Private methods
